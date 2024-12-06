@@ -1,0 +1,15 @@
+langchain-qdrant
+langchain-openai 
+langchain-community
+langchain_experimental
+langchain-google-genai
+llama-cpp-python
+sentence-transformers
+requests
+pypdf
+flask
+psycopg2
+nltk
+spacy
+pymupdf
+deepeval
