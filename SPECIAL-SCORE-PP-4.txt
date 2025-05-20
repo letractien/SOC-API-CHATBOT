@@ -1,0 +1,199 @@
+========== Lần lặp thứ 1 (2025-05-16 12:12:43.123941) ==========
+```json
+{'accuracy': 0.2, 'fluency': 1.0, 'relevance': 0.5}
+```
+```json
+{'accuracy': 0.8, 'fluency': 1.0, 'relevance': 1.0}
+```
+```json
+{
+  "accuracy": 0.0,
+  "fluency": 0.0,
+  "relevance": 0.0
+}
+```
+```json
+{'accuracy': 0.9, 'fluency': 0.8, 'relevance': 1.0}
+```
+```json
+{'accuracy': 0.3, 'fluency': 1.0, 'relevance': 1.0}
+```
+```json
+{'accuracy': 0.6, 'fluency': 0.3, 'relevance': 0.9}
+```
+```json
+{'accuracy': 1.0, 'fluency': 1.0, 'relevance': 1.0}
+```
+```json
+{'accuracy': 0.45, 'fluency': 1.0, 'relevance': 1.0}
+```
+```json
+{
+  "accuracy": 0.0,
+  "fluency": 0.0,
+  "relevance": 0.0
+}
+```
+```json
+{'accuracy': 1.0, 'fluency': 1.0, 'relevance': 1.0}
+```
+```json
+{'accuracy': 1.0, 'fluency': 1.0, 'relevance': 1.0}
+```
+```json
+{'accuracy': 0.0, 'fluency': 0.0, 'relevance': 0.0}
+```
+```json
+{'accuracy': 0.7, 'fluency': 1.0, 'relevance': 1.0}
+```
+```json
+{'accuracy': 0.8, 'fluency': 1.0, 'relevance': 0.95}
+```
+```json
+{
+  "accuracy": 0.8,
+  "fluency": 0.95,
+  "relevance": 0.8
+}
+```
+```json
+{
+"accuracy": 0.6,
+"fluency": 0.5,
+"relevance": 1.0
+}
+```
+```json
+{'accuracy': 0.8, 'fluency': 1.0, 'relevance': 1.0}
+```
+```json
+{'accuracy': 0.1, 'fluency': 1.0, 'relevance': 0.3}
+```
+```json
+{
+  "accuracy": 0.5,
+  "fluency": 1.0,
+  "relevance": 0.4
+}
+```
+```json
+{'accuracy': 0.0, 'fluency': 0.0, 'relevance': 0.0}
+```
+```json
+{
+  "accuracy": 0.0,
+  "fluency": 0.0,
+  "relevance": 0.0
+}
+```
+```json
+{
+  "accuracy": 0.0,
+  "fluency": 0.0,
+  "relevance": 0.0
+}
+```
+```json
+{'accuracy': 1.0, 'fluency': 1.0, 'relevance': 1.0}
+```
+```json
+{'accuracy': 1.0, 'fluency': 0.2, 'relevance': 0.9}
+```
+```json
+{'accuracy': 0.4, 'fluency': 0.9, 'relevance': 0.5}
+```
+```json
+{'accuracy': 0.35, 'fluency': 0.9, 'relevance': 0.5}
+```
+```json
+{'accuracy': 0.0, 'fluency': 0.1, 'relevance': 0.7}
+```
+```json
+{'accuracy': 1.0, 'fluency': 1.0, 'relevance': 1.0}
+```
+```json
+{
+  "accuracy": 0.7,
+  "fluency": 0.5,
+  "relevance": 0.9
+}
+```
+```json
+{'accuracy': 1.0, 'fluency': 1.0, 'relevance': 1.0}
+```
+```json
+{'accuracy': 0.3, 'fluency': 1.0, 'relevance': 0.5}
+```
+```json
+{
+  "accuracy": 0.9,
+  "fluency": 0.4,
+  "relevance": 1.0
+}
+```
+```json
+{'accuracy': 0.95, 'fluency': 0.85, 'relevance': 1.0}
+```
+```json
+{'accuracy': 0.0, 'fluency': 0.0, 'relevance': 0.0}
+```
+```json
+{'accuracy': 0.2, 'fluency': 0.9, 'relevance': 0.2}
+```
+```json
+{'accuracy': 1.0, 'fluency': 1.0, 'relevance': 1.0}
+```
+```json
+{
+  "accuracy": 0.0,
+  "fluency": 0.0,
+  "relevance": 0.0
+}
+```
+```json
+{'accuracy': 1.0, 'fluency': 0.9, 'relevance': 1.0}
+```
+```json
+{'accuracy': 0.95, 'fluency': 1.0, 'relevance': 1.0}
+```
+```json
+{'accuracy': 1.0, 'fluency': 1.0, 'relevance': 1.0}
+```
+```json
+{'accuracy': 0.0, 'fluency': 0.7, 'relevance': 0.0}
+```
+```json
+{'accuracy': 0.6, 'fluency': 0.8, 'relevance': 1.0}
+```
+```json
+{
+  "accuracy": 0.35,
+  "fluency": 1.0,
+  "relevance": 1.0
+}
+```
+```json
+{'accuracy': 0.9, 'fluency': 1.0, 'relevance': 1.0}
+```
+```json
+{'accuracy': 1.0, 'fluency': 1.0, 'relevance': 1.0}
+```
+```json
+{'accuracy': 1.0, 'fluency': 1.0, 'relevance': 1.0}
+```
+```json
+{'accuracy': 0.1, 'fluency': 0.9, 'relevance': 0.2}
+```
+```json
+{'accuracy': 0.8, 'fluency': 0.5, 'relevance': 1.0}
+```
+```json
+{
+"accuracy": 1.0,
+"fluency": 1.0,
+"relevance": 1.0
+}
+```
+```json
+{'accuracy': 0.7, 'fluency': 1.0, 'relevance': 1.0}
+```
